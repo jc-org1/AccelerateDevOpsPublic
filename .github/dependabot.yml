@@ -10,8 +10,4 @@ updates:
     directory: "ch8_packages/npm"
     schedule:
       interval: "daily"
-    labels:
-      - "ch8_npm"
-    assignees:
-      - "jvizuetazivra"
     open-pull-requests-limit: 2    
