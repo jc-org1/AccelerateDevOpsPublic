@@ -23,7 +23,7 @@
     "msal": "^1.4.10",
     "node-sass": "^8.0.0",
     "office-ui-fabric-react": "^7.204.0",
-    "prop-types": "^15.6.2",
+    "prop-types": "^15.8.1",
     "qs": "^6.11.1",
     "react": "^16.14.0",
     "react-a11y-dialog": "^6.2.0",
