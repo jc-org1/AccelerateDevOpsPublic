@@ -21,4 +21,4 @@ updates:
       - "nuget"
     assignees:
       - "jvizuetazivra"      
-    open-pull-requests-limit: 3
+    open-pull-requests-limit: 15
