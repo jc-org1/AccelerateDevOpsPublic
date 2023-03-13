@@ -20,7 +20,7 @@ The following topics will are covered in this chapter:
 -	Objectives and Key-Results
 
 <details><summary>References and Links</summary>
-line1
+
 
 - Srivastava S., Trehan K., Wagle D. & Wang J. (April 2020). [Developer Velocity: How software excellence fuels business performance]( https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/developer-velocity-how-software-excellence-fuels-business-performance).
 - Forsgren N., Smith D., Humble J., Frazelle J. (2019). [DORA State of DevOps Report](https://www.devops-research.com/research.html#reports)
@@ -634,3 +634,4 @@ We will cover the following topics:
 - de Vries, M., & van Osnabrugge, R. (2022): [Together we build an Engineering Culture](https://xpirit.com/together-we-build-an-engineering-culture/). XPRT Magazine #12. 
 
 </details> 
+line1
