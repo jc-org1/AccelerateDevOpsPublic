@@ -34,7 +34,7 @@
     "react-router-dom": "^6.10.0",
     "react-s-alert": "^1.4.1",
     "react-scripts": "^5.0.1",
-    "react-scroll": "^1.8.2",
+    "react-scroll": "^1.8.9",
     "recompose": "^0.30.0",
     "redux": "^4.2.1",
     "redux-logger": "^3.0.6",
