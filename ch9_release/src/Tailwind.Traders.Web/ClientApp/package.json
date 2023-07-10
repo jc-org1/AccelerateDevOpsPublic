@@ -12,7 +12,7 @@
     "@azure/logger": "^1.0.2",
     "@babel/helper-compilation-targets": "^7.22.5",
     "@babel/helper-regex": "^7.10.5",
-    "@fluentui/react": "^8.110.0",
+    "@fluentui/react": "^8.110.8",
     "@microsoft/applicationinsights-react-js": "^3.0.5",
     "@microsoft/applicationinsights-web": "^3.0.0",
     "axios": "^1.4.0",
